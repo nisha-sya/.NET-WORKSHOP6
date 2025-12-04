@@ -1,0 +1,14 @@
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\bin\Debug\net9.0\Task1.exe
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\bin\Debug\net9.0\Task1.deps.json
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\bin\Debug\net9.0\Task1.dll
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\bin\Debug\net9.0\Task1.pdb
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\Task1.dll
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\refint\Task1.dll
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\Task1.pdb
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+D:\WEB development\.NET_Workshop6\Workshop6\Task1\obj\Debug\net9.0\ref\Task1.dll
